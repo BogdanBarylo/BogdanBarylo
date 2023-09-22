@@ -1,7 +1,9 @@
 ### Hi there 👋
-<p>Hello everyone, my name is Bogdan</p>
-<p>I am Python backend developer</p>
-<p>From Sotira, Cyprus</p>
+<p style="font-size: 24px;">Hello everyone, my name is Bogdan</p>
+<p style="font-size: 18px;">I am Python backend developer</p>
+<p style="font-size: 16px;">From Sotira, Cyprus</p>
+<p style="font-size: 16px;">Open to the Job</p>
+
 
 ---
 
@@ -30,6 +32,7 @@
   <p>2017: Bachelor's degree in Law 🏦</p>
   <p>2019: Master's Degree in Law 🏦</p>
   <p>2021: Bachelor's degree in Agricultural Science 🌱</p>
+  <p>2023: Hexlet Python courses 💻</p>
 
 ---
 
