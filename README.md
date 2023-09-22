@@ -1,7 +1,12 @@
 ### Hi there 👋
-<p style="font-size: 24px;">Hello everyone, my name is Bogdan</p>
-<p style="font-size: 18px;">I am Python backend developer</p>
-<p style="font-size: 16px;">From Sotira, Cyprus</p>
+<p style="font-size: 32px;">Hello everyone, my name is Bogdan</p>
+<p style="font-size: 24px;">I am Python backend developer</p>
+<p style="font-size: 20px;">From Sotira, Cyprus</p>
+
+
+
+
+
 <p style="font-size: 16px;">Open to the Job</p>
 
 
