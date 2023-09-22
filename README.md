@@ -1,7 +1,7 @@
 ### Hi there 👋
-<h1 align="center" style="color: white;">Hello everyone, my name is Bogdan</h1>
-<h3 align="center" style="color: white;">Python backend developer</h3>
-<h4 align="center" style="color: white;">From Sotira, Cyprus</h4>
+<p>Hello everyone, my name is Bogdan</p>
+<p>I am Python backend developer</p>
+<p>From Sotira, Cyprus</p>
 
 ---
 
