@@ -1,7 +1,7 @@
 ### Hi there 👋
-<h1 align="center">Hello everyone, my name is Bogdan</h1>
-<h3 align="center">Python backend developer</h3>
-<h4 align="center">From Sotira, Cyprus</h4>
+<h1 align="center" style="color: white;">Hello everyone, my name is Bogdan</h1>
+<h3 align="center" style="color: white;">Python backend developer</h3>
+<h4 align="center" style="color: white;">From Sotira, Cyprus</h4>
 
 ---
 
@@ -27,9 +27,9 @@
 --- 
 
 ### 💻  Education and completed courses:
-  2017: Bachelor's degree in Law 🏦
-  2019: Master's Degree in Law 🏦
-  2021: Bachelor's degree in Agricultural Science 🌱
+  <p>2017: Bachelor's degree in Law 🏦</p>
+  <p>2019: Master's Degree in Law 🏦</p>
+  <p>2021: Bachelor's degree in Agricultural Science 🌱</p>
 
 ---
 
