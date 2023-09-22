@@ -1,27 +1,32 @@
 # Hi there 👋
 
 ## About Me
-- **Name:** Bogdan
+- **Name:** Bogdan Barylo
 - **Profession:** Python Backend Developer
 - **Location:** Sotira, Cyprus
 - **Open to Job Opportunities**
 
 ---
 
-## 💻 Tech Stack:
-- ![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) Python
-- ![django](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg) Django
-- ![flask](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg) Flask
-- ![html5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) HTML5
-- ![css](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) CSS
-- [![Flask](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg)](https://flask.palletsprojects.com/en/2.0.x/)
-- [![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg)](https://www.mysql.com/)
+### 💻 Tech Stack:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="60" height="60"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="60" height="60"/>&nbsp
+  
+</div>
 
 ---
 
-## 🛠 Tools:
-- ![linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) Linux
-- ![git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg) Git
+### 🛠 Tools:
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
+</div>
 
 ---
 
