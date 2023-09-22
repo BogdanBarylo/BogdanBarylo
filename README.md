@@ -1,58 +1,48 @@
-### Hi there 👋
-<p style="font-size: 32px;">Hello everyone, my name is Bogdan</p>
-<p style="font-size: 24px;">I am Python backend developer</p>
-<p style="font-size: 20px;">From Sotira, Cyprus</p>
+# Hi there 👋
 
-
-
-
-
-<p style="font-size: 16px;">Open to the Job</p>
-
+## About Me
+- **Name:** Bogdan
+- **Profession:** Python Backend Developer
+- **Location:** Sotira, Cyprus
+- **Open to Job Opportunities**
 
 ---
 
-### 💻 Tech Stack:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="60" height="60"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="60" height="60"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="flask" alt="flask" width="60" height="60"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="60" height="60"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="60" height="60"/>&nbsp
-</div>
-
----
-
-### 🛠 Tools:
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="60" height="60"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="60" height="60"/>&nbsp
-  <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</div>
-
---- 
-
-### 💻  Education and completed courses:
-  <p>2017: Bachelor's degree in Law 🏦</p>
-  <p>2019: Master's Degree in Law 🏦</p>
-  <p>2021: Bachelor's degree in Agricultural Science 🌱</p>
-  <p>2023: Hexlet Python courses 💻</p>
+## 💻 Tech Stack:
+- ![python](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg) Python
+- ![django](https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg) Django
+- ![flask](https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg) Flask
+- ![html5](https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg) HTML5
+- ![css](https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg) CSS
+- [![Flask](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg)](https://flask.palletsprojects.com/en/2.0.x/)
+- [![MySQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg)](https://www.mysql.com/)
 
 ---
 
-### 📊 My stats
-  <div>
-    <img src=http://github-readme-streak-stats.herokuapp.com/?user=BogdanBarylo&theme=vue&locale=ru&date_format=j%20M[%20Y]>
-  </div>
-  </br>
-  <div>
-    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBarylo&layout=compact&theme=vision-friendly-dark>
-  </div>
-  <div>
-    <img src=https://github-readme-stats.vercel.app/api?username=BogdanBarylo&show_icons=true&count_private=true&include_all_commits=true&theme=dark/>
-  </div>
+## 🛠 Tools:
+- ![linux](https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg) Linux
+- ![git](https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg) Git
+
+---
+
+## 💻 Education and Completed Courses:
+- 2017: Bachelor's Degree in Law 🏦
+- 2019: Master's Degree in Law 🏦
+- 2021: Bachelor's Degree in Agricultural Science 🌱
+- 2023: Hexlet Python Courses 💻
+
+---
+
+## 📊 My Stats
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=BogdanBarylo&theme=vue&locale=ru&date_format=j%20M[%20Y])
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBarylo&layout=compact&theme=vision-friendly-dark)
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BogdanBarylo&show_icons=true&count_private=true&include_all_commits=true&theme=dark)
+
+---
+
+## Contacts 🤝
 
 
 
