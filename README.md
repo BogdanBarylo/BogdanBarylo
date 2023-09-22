@@ -47,9 +47,6 @@
 
 ---
 
-## Contacts 🤝
-
-
 
 ### Contacts 🤝 
   <div id="badges">
