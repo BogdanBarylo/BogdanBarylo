@@ -55,7 +55,7 @@
 
 
 
-### Мои контакты 🤝 
+### Contacts 🤝 
   <div id="badges">
     <a href="https://t.me/BogdanBarylo">
       <img src="https://img.icons8.com/color/48/000000/telegram-app--v5.png" height="40"/>
