@@ -3,7 +3,7 @@
 ## About Me
 - **Name:** Bogdan Barylo
 - **Profession:** Python Backend Developer
-- **Location:** Sotira, Cyprus
+- **Location:** Cyprus
 - **Open to Job Opportunities**
 
 ---
