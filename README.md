@@ -41,8 +41,7 @@
 ---
 
 ## 📊 My Stats
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=BogdanBarylo&theme=vue&locale=ru&date_format=j%20M[%20Y])
-  
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BogdanBarylo&layout=compact&theme=vision-friendly-dark)
 
 ---
