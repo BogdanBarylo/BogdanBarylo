@@ -3,7 +3,6 @@
 ## About Me
 - **Name:** Bogdan Barylo
 - **Profession:** Python Backend Developer
-- **Location:** Cyprus
 - **Open to Job Opportunities**
 
 ---
@@ -36,7 +35,7 @@
 - 2017: Bachelor's Degree in Law 🏦
 - 2019: Master's Degree in Law 🏦
 - 2021: Bachelor's Degree in Agricultural Science 🌱
-- 2023: Hexlet Python Courses 💻
+- 2024: Hexlet Python Courses 💻
 
 ---
 
